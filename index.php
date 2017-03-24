@@ -4,7 +4,7 @@
 
 include 'getItems.php';
 $result = RetrieveItems();
-
+ 
 ?>
 
 <script>
