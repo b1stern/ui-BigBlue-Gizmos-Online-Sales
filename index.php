@@ -1,6 +1,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
-<?php
+<?php 
 
 include 'getItems.php';
 $result = RetrieveItems();
