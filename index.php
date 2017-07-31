@@ -6,7 +6,7 @@ include 'getItems.php';
 $result = RetrieveItems();
  
 ?>
-
+ 
 <script>
 var RETRY_INTERVAL = 5000;
 var customerId = Math.floor((Math.random() * 999) + 1);
